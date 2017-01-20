@@ -2,11 +2,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Evgeny Sherkunov Ruby and Ruby on Rails developer</title>
-    <link>http://esherkunov.ru/index.xml</link>
+    <link>http://sherkunov.name/index.xml</link>
     <description>Recent content on Evgeny Sherkunov Ruby and Ruby on Rails developer</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>ru-ru</language>
-    <atom:link href="http://esherkunov.ru/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://sherkunov.name/index.xml" rel="self" type="application/rss+xml" />
     
   </channel>
 </rss>
